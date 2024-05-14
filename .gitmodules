@@ -1,0 +1,3 @@
+[submodule "reusable-project/src/app/modules/admin"]
+	path = reusable-project/src/app/modules/admin
+	url = https://github.com/GPInfoTechDev/vna-bms
